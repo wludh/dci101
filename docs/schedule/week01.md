@@ -7,7 +7,7 @@ In our first week, let's unpack what we even mean by digital culture and informa
 
 Agenda:
 
-* Before class, take this getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSd9KqFzc82nQgb0xUsIKValasvc8xd-TFWJV-nB0RhNcOFbcg/viewform?usp=sf_link).
+* Before class, take this getting to know you [survey]().
 * ice breaker: 
 	1. Name
 	2. Where you're from
@@ -65,7 +65,7 @@ Agenda:
 	* [Geocities](https://geocities.restorativland.org/) deep dive - What can you learn about internet culture from exploring these sites? Put your historian hat on. What trends do you observe? 
 	* What do Milligan and Tolentino and Ayers say? How does the internet affect us, as people, AND the historical record?  	 
 * Assignment overview 
-* Activity 1.3 - [WordPress](https://mackenziekbrooks.github.io/dci101-f24/domain/#install-wordpress)
+* Activity 1.3 - [WordPress](https://wludh.github.io/dci101/domain/#install-wordpress)
 
 
 ## Week 1 Assignments

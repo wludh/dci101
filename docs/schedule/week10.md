@@ -5,11 +5,7 @@
 * icebreaker: 
 * Project planning: take 5 minutes to brain dump your questions, thoughts, feelings, plans about your project. What are you going to get done this week? What do you need help with? What questions do you have for me? 
 * Groups: 
-	* Fran, Clifton 
-	* Cece, Sydney
-	* Graham, Sahil
-	* Hadley, Greg 
-	* Abbie, Evan
+
 
 * Share + find data: In your groups, share your project topic and research questions with each other. Scholarship and research does not have to be a solitary act! Do you have advice for your classmate on where to find data and what to do with it? 
 
@@ -22,12 +18,7 @@ Create 1-3 data visualizations for peer review!
 * icebreaker: 
 * data viz peer review 
 * Groups:
-	* Antonio, Fran
-	* Evan, Sydney
-	* Cece, Graham 
-	* Harris, Ha
-	* Hadley, Clifton
-	* Abbie, Greg
+
 
 * Peer review process:
 	* You will need to remove the password from your pages/posts or share it with your classmates.

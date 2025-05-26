@@ -8,7 +8,7 @@
 
 ## Tuesday, November 5
 
-* No class meeting, instead sign up for an individual meeting on this [Boxnote](https://wlu.app.box.com/notes/1681724486018). If you can't find a time that works. If you have to change your time, email me!
+* No class meeting, instead sign up for an individual meeting on this [Boxnote. If you can't find a time that works. If you have to change your time, email me!
 
 ## Prep for Thursday
 

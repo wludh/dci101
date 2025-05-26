@@ -39,7 +39,7 @@
 ## Thursday, October 31 (Halloween!)
 
 * icebreaker
-* Project update > don't forget to [sign up for a meeting time](https://wlu.app.box.com/notes/1681724486018)! We will **not** meet as a class on Tuesday. 
+* Project update > don't forget to sign up for a meeting time! We will **not** meet as a class on Tuesday. 
 * groups:
     * table 1: Cece, Sydney, Sahil 
     * table 2: Hadley, Graham, Greg, Fran

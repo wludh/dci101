@@ -49,7 +49,7 @@ On data viz (look at all):
 
 ### Exploratory Data Viz
 
-[See Assignment Description](https://mackenziekbrooks.github.io/dci101-f24/assignments/#exploratory-data-visualization)
+See Assignment Description
 
 ### Blog post #6 - Website Genealogy
 
